@@ -227,7 +227,7 @@ display: none;
 
     }
     #navlinks{
-        position: absolute;
+        position: fixed;
         background: tomato;
         /* height: 50vh; */
         width: 170px;
